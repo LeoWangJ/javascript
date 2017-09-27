@@ -4,9 +4,9 @@
 
 著重在javascript的學習,所以畫面會有些簡陋! 
 
-網址將資料改為想要觀看的頁面即可
+將網址改為想要觀看的資料夾頁面即可
 
 網址範例: 
 
-ajax :https://leowangj.github.io/javascript/ajax/index.html
-
+ajax: https://leowangj.github.io/javascript/ajax/index.html
+lightbox: https://leowangj.github.io/javascript/lightbox/index.html
