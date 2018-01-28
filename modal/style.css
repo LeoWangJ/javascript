@@ -1,0 +1,12 @@
+.open{
+    display: block;
+}
+.close{
+    display: none;
+}
+.modal{
+    z-index: 9 !important;
+}
+.modal-overlay{
+    z-index: 6 !important;
+}
